@@ -3,3 +3,6 @@ hi
 thank you
 cola
 tea
+television
+book
+town
